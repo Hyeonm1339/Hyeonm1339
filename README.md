@@ -19,6 +19,20 @@ Here are some ideas to get you started:
 
 <hr>
 
+## Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/hyeonm1339/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="mailto:hmkim@lnkorea.co.kr">
+        <img src="https://img.shields.io/badge/BisinessMail-F06B66?style=for-the-badge&logo=Mailgun&logoColor=white"> 
+    </a>
+    <a href="mailto:jhjimess@naver.com">
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
+    </a>
+</div><br>
+<hr>
+
 ####  :clipboard: Once I've Used 
 <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
