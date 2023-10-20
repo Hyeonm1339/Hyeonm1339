@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Hyeonm1339/Hyeonm1339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&text=Welcome%20to%20Hyeonm's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
