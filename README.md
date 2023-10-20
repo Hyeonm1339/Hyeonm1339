@@ -19,17 +19,10 @@ Here are some ideas to get you started:
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/hyeonm1339/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
-
-
-
 <!--
 백준코드 추후 사용예정
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=아이디)](https://solved.ac/아이디/)
 -->
-
-<hr>
-
 
 ####  :clipboard: Once I've Used 
 <br>
@@ -71,8 +64,12 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 </div><br>
+
+<img src="https://raw.githubusercontent.com/hyeonm1339/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+
 <hr>
 
+<!-- 티스토리 코드
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hyeonm1339&theme=kakao)](https://hyeonm1339.tistory.com)
-
+-->
 </div>
