@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     <a href="mailto:jhjimess@naver.com">
         <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
     </a>
-    <a href="[mailto:jhjimess@naver.com](https://hyeonm1339.tistory.com/)">
+    <a href="https://hyeonm1339.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 </div><br>
